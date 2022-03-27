@@ -3,6 +3,18 @@ Simples aplicação feita em node que de acordo com a cotação atual do dolar c
 'Carinha que mora logo ali, me passa um R$ {cotação atual do dolar}'.
 Inspirado num post que eu vi numa rede social.
 
+## How to run
+Using npm
+
+    npm install # install dependeces
+    npm run build # build
+    npm run start # run
+
+Using yarn
+
+    yarn # install dependeces
+    yarn build # build
+    yarn run # run
 
 ## Copyright disclaimer 
 
